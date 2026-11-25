@@ -28,28 +28,19 @@ Soy Daniel Jiménez, estudio DAM y disfruto construyendo la parte de las aplicac
 
 **Lenguajes**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNU00IDEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTMiLz48L2c+PC9zdmc+)
+<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> <img src="assets/sql.svg" alt="SQL" title="SQL" />
 
 **Web y marcado**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> <img src="assets/xml.svg" alt="XML" title="XML" />
 
 **Bases de datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL / MySQL Workbench" />
 
 **Herramientas y sistemas**
 
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTggNmwtNiA2IDYgNk0xNiA2bDYgNi02IDYiLz48L3N2Zz4=)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTF2MTFIMHpNMTMgMGgxMXYxMUgxM3pNMCAxM2gxMXYxMUgwek0xMyAxM2gxMXYxMUgxM3oiLz48L3N2Zz4=)
+<img src="assets/netbeans.svg" alt="NetBeans" title="NetBeans" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" />
 
 <!-- PENDIENTE: descomentar cuando los proyectos estén subidos
 ## 🚀 Proyectos destacados
@@ -65,7 +56,3 @@ Soy Daniel Jiménez, estudio DAM y disfruto construyendo la parte de las aplicac
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielJimenezAndujar&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJimenezAndujar&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
 </p>
-
-## 📫 Contacto
-
-✉️ [danieljimenezandujar@gmail.com](mailto:danieljimenezandujar@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-jim%C3%A9nez-and%C3%BAjar/)
