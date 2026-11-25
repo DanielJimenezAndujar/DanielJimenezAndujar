@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/DanielJimenezAndujar.png" width="150" alt="Avatar de Daniel Jiménez" style="border-radius: 50%;" />
   <h2 align="center">¡Hola 👋! Soy Daniel Jiménez 👨🏻‍💻</h2>
-  <p align="center">Estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> · Backend, datos e IA</p>
+  <p align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) · Backend, datos e IA</p>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 Soy Daniel Jiménez, estudio DAM y disfruto construyendo la parte de las aplicaciones que hace que todo funcione: APIs, bases de datos y lógica de servidor. Me engancha entender cómo funcionan las cosas por dentro, por eso también ando metido en IA, datos y ciberseguridad.
 
-- 🎓 Estudiando **DAM** (curso 2026/2027)
-- 🔭 Desarrollando aplicaciones en **Java** conectadas a bases de datos **MySQL**
-- 🌱 Profundizando en **SQL**, **XML** y desarrollo web con **JavaScript**
+- 🎓 Estudiando DAM (curso 2026/2027)
+- 🔭 Desarrollando aplicaciones en Java conectadas a bases de datos MySQL
+- 🌱 Profundizando en SQL, XML y desarrollo web con JavaScript
 - ⚡ Fuera del código me encontrarás jugando a videojuegos 🎮, viendo series 📺 o enganchado a algún anime 🍥
 
 ## 🎯 Intereses
