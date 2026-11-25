@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="assets/avatar.png" width="150" alt="Foto de Daniel Jiménez" />
-  <h2 align="center">¡Hola 👋! Soy Daniel Jiménez 👨🏻‍💻</h2>
-  <p align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) · Backend, datos e IA</p>
-</p>
+<img src="assets/banner.png" width="100%" alt="Daniel Jiménez Andújar · Estudiante DAM" />
+
+<h2 align="center">¡Hola 👋! Soy Daniel Jiménez 👨🏻‍💻</h2>
+<p align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) · Backend, datos e IA</p>
 
 <p align="center">
   <a href="mailto:danieljimenezandujar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="danieljimenezandujar@gmail.com" /></a>
