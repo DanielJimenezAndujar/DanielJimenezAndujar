@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanielJimenezAndujar.png" width="150" alt="Avatar de Daniel Jiménez" style="border-radius: 50%;" />
+  <img src="assets/avatar.png" width="150" alt="Foto de Daniel Jiménez" />
   <h2 align="center">¡Hola 👋! Soy Daniel Jiménez 👨🏻‍💻</h2>
   <p align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) · Backend, datos e IA</p>
 </p>
