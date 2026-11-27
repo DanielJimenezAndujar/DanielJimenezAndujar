@@ -6,6 +6,7 @@
 <p align="center">
   <a href="mailto:danieljimenezandujar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="danieljimenezandujar@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/daniel-jim%C3%A9nez-and%C3%BAjar/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://danieljimenezandujar.github.io"><img src="assets/web.svg" alt="Portfolio web" title="danieljimenezandujar.github.io" /></a>
 </p>
 
 ## 🙋‍♂️ Sobre mí
